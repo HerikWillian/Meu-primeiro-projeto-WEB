@@ -1,3 +1,3 @@
 # Meu primeiro projeto!
 
-Feito com ♥ by Herik Willian
+Herik Willian Nogueira Soares
